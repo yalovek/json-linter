@@ -1,0 +1,19 @@
+{
+  "name": "json-linter",
+  "version": "1.0.0",
+  "description": "Linter for json",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node ."
+  },
+  "keywords": [
+    "json",
+    "linter"
+  ],
+  "author": {
+    "name": "Vadim Yalovenko",
+    "email": "yalovek@ya.ru"
+  },
+  "license": "MIT"
+}
